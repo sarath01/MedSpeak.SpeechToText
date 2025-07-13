@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sarathkonda/Downloads/MedSpeak.iOS.DeepLibrary.NIW/MedSpeak.SpeechToText/MedSpeak.SpeechToText.csproj": {}
+  },
+  "projects": {
+    "/Users/sarathkonda/Downloads/MedSpeak.iOS.DeepLibrary.NIW/MedSpeak.SpeechToText/MedSpeak.SpeechToText.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sarathkonda/Downloads/MedSpeak.iOS.DeepLibrary.NIW/MedSpeak.SpeechToText/MedSpeak.SpeechToText.csproj",
+        "projectName": "MedSpeak.SpeechToText",
+        "projectPath": "/Users/sarathkonda/Downloads/MedSpeak.iOS.DeepLibrary.NIW/MedSpeak.SpeechToText/MedSpeak.SpeechToText.csproj",
+        "packagesPath": "/Users/sarathkonda/.nuget/packages/",
+        "outputPath": "/Users/sarathkonda/Downloads/MedSpeak.iOS.DeepLibrary.NIW/MedSpeak.SpeechToText/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sarathkonda/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-ios"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-ios18.0": {
+            "targetAlias": "net8.0-ios",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-ios18.0": {
+          "targetAlias": "net8.0-ios",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.14, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.iOS": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Xamarin.iOS": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

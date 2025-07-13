@@ -1,0 +1,38 @@
+National Interest Waiver (NIW) Statement – Project Contribution
+================================================================
+
+Project Title: MedSpeak.SpeechToText – A Speech Recognition Library for Medical Accessibility on iOS
+Author: Sarath Reddy Konda
+Year: 2025
+License: MIT (Open Source)
+
+Statement of National Importance
+--------------------------------
+As part of my ongoing effort to contribute to the United States in the fields of public health and accessible technology, I developed MedSpeak.SpeechToText, an open-source, real-time speech-to-text transcription library for iOS, built using C#/.NET and Apple's native speech frameworks.
+
+This library is designed to bridge communication gaps between patients and healthcare professionals, particularly in scenarios where:
+- Patients may have difficulty typing or using touchscreens (e.g., motor disabilities)
+- Elderly or visually impaired individuals need voice-based input
+- Multilingual support is essential in a clinical or emergency setting
+
+The software provides a simplified, reusable API to integrate speech recognition into mobile health apps, telemedicine platforms, and patient-facing tools — reducing barriers to care and improving response time during medical interactions.
+
+Alignment with U.S. National Goals
+----------------------------------
+The U.S. Department of Health and Human Services has emphasized the critical importance of:
+- Expanding telehealth
+- Supporting accessible and inclusive technologies
+- Improving health equity and communication infrastructure
+
+This project directly supports these federal priorities by enabling voice-driven, real-time communication in healthcare settings. It is freely available under the MIT license and has been built to support developers creating solutions that improve outcomes for underserved or vulnerable populations.
+
+Evidence of Merit and Originality
+---------------------------------
+- Fully authored and maintained by me (Sarath Reddy Konda), with documentation and licensing.
+- Designed using best practices for cross-platform mobile development.
+- Hosted publicly for reproducibility and reuse by the global software and health tech communities.
+- Applicable across multiple U.S. sectors: healthcare, accessibility, and emergency services.
+
+Conclusion
+----------
+Through MedSpeak.SpeechToText, I am contributing a novel, technically sound, and socially impactful software component to the U.S. innovation ecosystem. Its potential to enable clearer, faster, and more inclusive communication in healthcare supports the case that my continued work is in the national interest and justifies a National Interest Waiver.

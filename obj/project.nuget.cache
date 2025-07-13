@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ljZ11t0E9xNacJAJ4gV/yBINNnqgYZK0mwMPKKxODaacML0BXaXWSPoZQxSgufShIpTG7ZkTUou2NtDIxytOUQ==",
+  "success": true,
+  "projectFilePath": "/Users/sarathkonda/Downloads/MedSpeak.iOS.DeepLibrary.NIW/MedSpeak.SpeechToText/MedSpeak.SpeechToText.csproj",
+  "expectedPackageFiles": [
+    "/Users/sarathkonda/.nuget/packages/microsoft.net.illink.tasks/8.0.14/microsoft.net.illink.tasks.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
